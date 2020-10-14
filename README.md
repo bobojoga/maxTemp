@@ -1,0 +1,2 @@
+# maxTemp
+Netguru max temperature
